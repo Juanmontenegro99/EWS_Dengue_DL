@@ -1,5 +1,5 @@
 # Early warning system for dengue with deep learning
-Dengue is one of the vector-borne diseases with the highest incidence in the world. Specifically, in Colombia, there are more than X cases and X deaths per year, making the prevention of this disease a priority for public health policies in the country.
+Dengue is one of the vector-borne diseases with the highest incidence in the world. Specifically, in Colombia, there are more than 69000 cases and 200 deaths per year, making the prevention of this disease a priority for public health policies in the country.
 
 This project seeks to create an early warning system for possible epidemics that may occur in the country based on a deep learning model that is informed by Google search trends of the different symptoms and keywords related to the disease and the cases confirmed by the Public Surveillance System (SIVIGILA). All the data used in this project is public and has no conflicts of interest; however, due to the size of the databases, they are not in this repository.
 
