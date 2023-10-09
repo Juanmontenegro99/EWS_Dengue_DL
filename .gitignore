@@ -1,8 +1,8 @@
 .gitattributes
 .ipynb_checkpoints/
 *.zip
-.Presentacion/
-.Forecasting-master/
+Presentacion/
+Forecasting-master/
 *.pptx
 *.mp4
 *.xlsx
